@@ -2,7 +2,7 @@
 public class CloudTechnology {
 
 	public static void main(String[] args) {
-	string name = "Ksenia";
+	String name = "world";
 		System.out.println("Hello " + name);
 	}
 }
